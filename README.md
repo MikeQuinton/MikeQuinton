@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-[![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=mikequinton)](https://github.com/evirunurm/github-stats)
+<a href="https://github.com/mikequinton/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mikequinton" />
+</a>
+<a href="https://github.com/mikequinton/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikequinton&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--
 **MikeQuinton/MikeQuinton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
