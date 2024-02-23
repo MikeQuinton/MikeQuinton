@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?mikequinton=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=mikequinton)](https://github.com/evirunurm/github-stats)
 
 <!--
