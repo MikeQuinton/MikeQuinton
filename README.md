@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=mikequinton)](https://github.com/evirunurm/github-stats)
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mikequinton&hide_title=true&hide_border=flase&show_icons=true&include_all_commits=true&count_private=true&line_height=21&&theme=tokyonight" />
 
