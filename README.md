@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/mikequinton">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=mikequinton&theme=synthwave" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=mikequinton&theme=dracula" />
 </a>
 <a href="https://github.com/mikequinton">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikequinton&theme=synthwave&layout=compact&langs_count=8&card_width=320" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikequinton&theme=dracula&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <!--
