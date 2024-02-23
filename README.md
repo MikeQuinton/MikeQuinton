@@ -6,6 +6,30 @@
 </a>
 
 <!--
+## Neofetch
+```python
+$ Neofetch
+            ```                             cele@italy
+          `,,`      ,;cc;`                  ----------
+        `;;,`     `l0NWWKl`                 OS: Windows 11
+      `;c;,      `oXMMMMMXd,                Uptime: 28 years
+     ,;c;,      ,dNMMMMMMMNx,               Host: United Kingdom
+   `,clc,      ;xNMMWXOONMMWk;              OS: "Arch Linux"
+  `;cll;`     ;oWMMNxc,,dNMMWO;`            Editor: "VSCodium"
+  ;clll;`   `;oWMMNd,   `oXMMW0c`           Hobbies: ["Brazilian Jiu Jitsu", "Snowboarding", "Gaming"]
+ ,cllll;`  `cKMMMXo`     `lKMMMKc`          Languages.Programming: ["Python, YAML"]
+`;lllll;` `lXMMMKl`       `cKMMMKc`   ```   
+`;llllll;`;oWMW0c`         `cKWWNx, ,;;,    
+`;llloool;;cx0k;            `;doc;;;;;`     
+`;llooooool;;;,            `,;;cllc;,`      
+ ,clooooooooolcc;;;;;;;;;cllodoc;;lk0o`     contacts
+  ,;looooooooddddddddddddddlc;, ,xNMMXo`    --------
+   `,;clooodddddddddoolc;;,`     ;oWMMXl`   Email: "alessiocelentano2003@gmail.com"
+      `,;;;;;;;;;;;,,``           ;xXXOc    Telegram: "t.me/alessiocelentano"
+                                   `,;,     Reddit: "u/alessiocelentano"                                
+```
+-->
+<!--
 **MikeQuinton/MikeQuinton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,3 +43,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Neofetch
+```python
+$ Neofetch
+::,.    ..'.       ...............................  OS: Windows 11
+:::;,.    ..'.        .......     ................  Uptime: 28 years
+:::;;;,.   ....   .........         ..............
+::::;;;;'.   ....':clc:,'.......     .............
+;:::::;;;;'. ..';ldxdolccc::;,'..    .............
+;;::::;;;;;,..,;lxxxxddoollc:;;,'.   .............
+;;;::::;;;;;,,;cdkkxxdoooolc:;;,'..  .............
+;;;;:::;;;cdl;cdkxdoooollc::::;'...  .............
+;;;;;:::;:oolcdkxc;'..',,;;;;;,'...  .............
+;;;;;;;;;:odookOxl:,...';:;'...      .............
+;;;;;;;;;;lxlokOkxo:;;:oddc.......  ..............
+;;;;;;;;;;;;,cxxxoc;,:oxdoc..',,'.. ..............
+;;;;;;;;;;;,';ooc,'',:clll;...,,'..  .            
+;;;;;;;;;;;;;,:lc,.',,'''..  ....                 
+;:::::;;;;;:lc';:'.,,'.....                       
+::::::;,,;,'ld,.,,,:c:,.......                    
+::;,'.....'.'lc'.',,;;,'.....                     
+,............,c:'..'.'......                      
+........,,....':;'...                           ..
+       ........',,...                 .         ..
+        ...    .','........                     ..
+         ...    .',,'.....                      ..
+         ...      ....                            
+.........','...        ...          .....         
+.........',,,....     .....  .     ......         
+```
+
