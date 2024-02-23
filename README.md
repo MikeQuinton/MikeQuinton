@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <a href="https://github.com/mikequinton">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=mikequinton&theme=onedark" />
 </a>
